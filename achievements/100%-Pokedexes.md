@@ -27,5 +27,5 @@
 - Shield - (0%) / DLC 1 - (0%) / DLC 2 - (0%)
 - Legends Arceus - (0%) 
 - Scarlet - (0%) / DLC 1 - (0%) / DLC 2 - (0%)
-- Violet - (0%) / DLC 1 - (0%) / DLC 2 - (0%)
+- Violet - (100%) / DLC 1 - (100%) / DLC 2 - (100%)
 - Legends ZA - (0%) / DLC 1 - (0%)
