@@ -18,10 +18,3 @@
 - **Nature:**  
 
 ---
-
-### Misc
-- **Item:** Scope Lens  
-- **Ability:** Magic Guard  
-- **Nature:** Adamant  
-
----
