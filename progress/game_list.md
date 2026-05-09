@@ -1,45 +1,45 @@
 # Main Series
 | Owned | Complete | Title | Platform |
 |-------|----------|-------|----------|
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Red | Game Boy |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Red | Game Boy |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Green[^1]| Game Boy |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Blue | Game Boy |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Yellow | Game Boy Color |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Gold | Game Boy Color |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Silver | Game Boy Color |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Crystal | Game Boy Color |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Ruby | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Sapphire | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Emerald | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Fire Red | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Leaf Green | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Blue | Game Boy |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Yellow | Game Boy Color |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Gold | Game Boy Color |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Silver | Game Boy Color |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Crystal | Game Boy Color |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ruby | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Sapphire | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Emerald | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Fire Red | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Leaf Green | Game Boy Advance |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Diamond | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pearl | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Platinum | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Heart Gold | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Platinum | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Heart Gold | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon SoulSilver | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Black | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Black | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon White | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Black 2 | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon White 2 | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon X | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Black 2 | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon White 2 | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon X | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Y | 3DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Omega Ruby | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Omega Ruby | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Alpha Sapphire | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Sun | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Moon | 3DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Ultra Sun | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Sun | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Moon | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ultra Sun | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ultra Moon | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Let's Go Pikachu | Switch |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Let's Go Eevee | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Sword | Switch |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Shield | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Brilliant Diamond | Switch |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Shining Pearl | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Legends: Arceus | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Scarlet | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Violet | Switch |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Legends: Z-A | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Let's Go Eevee | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Sword | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Shield | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Brilliant Diamond | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Shining Pearl | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Legends: Arceus | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Scarlet | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Violet | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Legends: Z-A | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Wind[^2] | Switch 2 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Waves[^2] | Switch 2 |
 
@@ -51,7 +51,7 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Box: Ruby and Sapphire | GameCube |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Colosseum | GameCube |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon XD: Gale of Darkness | GameCube |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Battle Revolution | Wii |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Battle Revolution | Wii |
 | <p align="center">❌</p> | <p align="center">❌</p> | My Pokémon Ranch | Wii |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Trading Card Game | Game Boy Color |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Card GGB2: Here Comes Great Team Rocket[^1] | Game Boy Color |
@@ -60,16 +60,16 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Card Game: How To Play DS[^1] | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pinball | Game Boy Color |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pinball: Ruby & Sapphire | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Red Rescue Team | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Blue Rescue Team | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Time | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Red Rescue Team | Game Boy Advance |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Blue Rescue Team | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Time | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Darkness | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Sky | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Gates to Infinity | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Super Mystery Dungeon | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Rescue Team DX | Switch |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Ranger | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Ranger: Shadows of Almia | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Gates to Infinity | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Super Mystery Dungeon | 3DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Rescue Team DX | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ranger | DS |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ranger: Shadows of Almia | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ranger: Guardian Signs | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Rumble Blast | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Rumble U | Wii U |
@@ -86,13 +86,13 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Hey You, Pikachu! | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Channel | Gamecube |
 | <p align="center">❌</p> | <p align="center">❌</p> | Detective Pikachu | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Detective Pikachu Returns | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Detective Pikachu Returns | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Battrio[^1] | Arcade |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Tretta[^1] | Arcade |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Tretta Lab[^1] | 3DS/Arcade |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ga-Ole[^1] | Arcade |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokken Tournament | Arcade/Wii U |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokken Tournament DX | Switch |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokken Tournament DX | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mezastar[^1] | Arcade |
 | <p align="center">❌</p> | <p align="center">❌</p> | PokéPark Wii: Pikachu's Adventure | Wii |
 | <p align="center">❌</p> | <p align="center">❌</p> | PokéPark 2: Wonders Beyond | Wii |
