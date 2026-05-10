@@ -4,7 +4,7 @@
 ---
 
 ## Rillaboom (Caeser)
-![Rillaboom](assets/pokemon-sprites/0812_rillaboom.png)  
+![Rillaboom](../assets/pokemon-sprites/0812_rillaboom.png)  
 ### Moves
 - Wood Hammer
 - Boomburst
@@ -18,7 +18,7 @@
 ---
 
 ## Urshifu
-![Urshifu](assets/pokemon-sprites/0892_urshifuSingle.png)   
+![Urshifu](../assets/pokemon-sprites/0892_urshifuSingle.png)   
 ### Moves
 - Wicked Blow
 - Close Combat
@@ -32,7 +32,7 @@
 ---
 
 ## Dragapult
-![Dragapult](assets/pokemon-sprites/0887_dragapult.png)  
+![Dragapult](../assets/pokemon-sprites/0887_dragapult.png)  
 ### Moves
 - Dragon Pulse
 - Infestation
@@ -46,7 +46,7 @@
 ---
 
 ## Toxtricity
-![Toxtricity](assets/pokemon-sprites/0849_toxtricityAmped.png)  
+![Toxtricity](../assets/pokemon-sprites/0849_toxtricityAmped.png)  
 ### Moves
 - Overdrive
 - Toxic
@@ -60,7 +60,7 @@
 ---
 
 ## Alolan-Ninetales
-![Alolan-Ninetales](assets/pokemon-sprites/0038_ninetalesAlolan.png)  
+![Alolan-Ninetales](../assets/pokemon-sprites/0038_ninetalesAlolan.png)  
 ### Moves
 - Aurora Beam
 - Dazzling Gleam
@@ -74,7 +74,7 @@
 ---
 
 ## Blastoise
-![Blastoise](assets/pokemon-sprites/0009_blastoise.png)  
+![Blastoise](../assets/pokemon-sprites/0009_blastoise.png)  
 ### Moves
 - Rapid Spin
 - Flash Cannon
