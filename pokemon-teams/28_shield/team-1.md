@@ -4,7 +4,7 @@
 ---
 
 ## Rillaboom (Caeser)
-![Rillaboom](Add Asset Add)  
+![Rillaboom](assets/pokemon-sprites/0812_rillaboom.png)  
 ### Moves
 - Wood Hammer
 - Boomburst
@@ -32,7 +32,7 @@
 ---
 
 ## Dragapult
-![Dragapult](Add Asset Add)  
+![Dragapult](assets/pokemon-sprites/0887_dragapult.png)  
 ### Moves
 - Dragon Pulse
 - Infestation
@@ -46,7 +46,7 @@
 ---
 
 ## Toxtricity
-![Toxtricity](Add Asset Add)  
+![Toxtricity](assets/pokemon-sprites/0849_toxtricityAmped.png)  
 ### Moves
 - Overdrive
 - Toxic
@@ -60,7 +60,7 @@
 ---
 
 ## Alolan-Ninetales
-![Alolan-Ninetales](Add Asset Add)  
+![Alolan-Ninetales](assets/pokemon-sprites/0038_ninetalesAlolan.png)  
 ### Moves
 - Aurora Beam
 - Dazzling Gleam
@@ -74,7 +74,7 @@
 ---
 
 ## Blastoise
-![Blastoise](Add Asset Add)  
+![Blastoise](assets/pokemon-sprites/0009_blastoise.png)  
 ### Moves
 - Rapid Spin
 - Flash Cannon
