@@ -21,7 +21,7 @@
 
 ## Urshifu
 
-![Urshifu](../assets/pokemon-sprites/0892_urshifuSingle.png)   
+![Urshifu](../../assets/pokemon-sprites/0892_urshifuSingle.png)   
 
 ### Moves
 - Wicked Blow
@@ -37,7 +37,7 @@
 
 ## Dragapult
 
-![Dragapult](../assets/pokemon-sprites/0887_dragapult.png)  
+![Dragapult](../../assets/pokemon-sprites/0887_dragapult.png)  
 
 ### Moves
 - Dragon Pulse
