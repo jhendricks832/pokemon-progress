@@ -53,7 +53,7 @@
 
 ## Toxtricity
 
-![Toxtricity](../assets/pokemon-sprites/0849_toxtricityAmped.png)  
+![Toxtricity](../../assets/pokemon-sprites/0849_toxtricityAmped.png)  
 
 ### Moves
 - Overdrive
@@ -69,7 +69,7 @@
 
 ## Alolan-Ninetales
 
-![Alolan-Ninetales](../assets/pokemon-sprites/0038_ninetalesAlolan.png)  
+![Alolan-Ninetales](../../assets/pokemon-sprites/0038_ninetalesAlolan.png)  
 
 ### Moves
 - Aurora Beam
@@ -85,7 +85,7 @@
 
 ## Blastoise
 
-![Blastoise](../assets/pokemon-sprites/0009_blastoise.png)  
+![Blastoise](../../assets/pokemon-sprites/0009_blastoise.png)  
 
 ### Moves
 - Rapid Spin
