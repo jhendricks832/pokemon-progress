@@ -18,7 +18,7 @@
 ---
 
 ## Urshifu
-![Urshifu](Add Asset Add)  
+![Urshifu](assets/pokemon-sprites/0892_urshifuSingle.png)  
 ### Moves
 - Wicked Blow
 - Close Combat
