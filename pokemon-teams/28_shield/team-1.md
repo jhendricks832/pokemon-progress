@@ -18,7 +18,7 @@
 ---
 
 ## Urshifu
-![Urshifu](assets/pokemon-sprites/0892_urshifuSingle.png)  
+![Jolteon](../assets/pokemon-sprites/jolteon.png)   
 ### Moves
 - Wicked Blow
 - Close Combat
