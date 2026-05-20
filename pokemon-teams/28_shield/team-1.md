@@ -21,7 +21,7 @@
 
 ## Urshifu
 
-![Urshifu](../../assets/pokemon-sprites/0892_urshifuSingle.png)   
+![Urshifu](../../new-sprites/0892_urshifu-single.png)   
 
 ### Moves
 - Wicked Blow
@@ -37,7 +37,7 @@
 
 ## Dragapult
 
-![Dragapult](../../assets/pokemon-sprites/0887_dragapult.png)  
+![Dragapult](../../new-sprites/0887_dragapult.png)  
 
 ### Moves
 - Dragon Pulse
@@ -53,7 +53,7 @@
 
 ## Toxtricity
 
-![Toxtricity](../../assets/pokemon-sprites/0849_toxtricityAmped.png)  
+![Toxtricity](../../new-sprites/0849_toxtricity-amped.png)  
 
 ### Moves
 - Overdrive
@@ -69,7 +69,7 @@
 
 ## Alolan-Ninetales
 
-![Alolan-Ninetales](../../assets/pokemon-sprites/0038_ninetalesAlolan.png)  
+![Alolan-Ninetales](../../new-sprites/0038_ninetales-alolan.png)  
 
 ### Moves
 - Aurora Beam
@@ -85,7 +85,7 @@
 
 ## Blastoise
 
-![Blastoise](../../assets/pokemon-sprites/0009_blastoise.png)  
+![Blastoise](../../new-sprites/0009_blastoise.png)  
 
 ### Moves
 - Rapid Spin
