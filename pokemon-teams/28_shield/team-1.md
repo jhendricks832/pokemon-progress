@@ -5,7 +5,7 @@
 
 ## Rillaboom (Caeser)
 
-![Rillaboom](../../assets/new-sprites/0812_rillaboom.png)  
+![Rillaboom](../../assets/pokemon-sprites/0812_rillaboom.png)  
 
 ### Moves
 - Wood Hammer
